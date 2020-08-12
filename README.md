@@ -1,6 +1,6 @@
 # Bletcher
 
-요즘은 예술이라는 분야에 대해 높은 장벽을 느끼는 사람들이 많지 않다. 예술 분야에의 참여 방식이 다양해지고, 기술의 발전으로 인해 참여도가 높아지면서 모든 사람들이 예술을 즐기고 창작할 수 있는 시대가 열리고 있다.
+요즘은 예술 분야에 대해 높은 장벽을 느끼는 사람들이 많지 않다. 예술 참여 방식이 다양해지고, 기술의 발전으로 인해 참여도가 높아지면서 모든 사람들이 예술을 즐기고 창작할 수 있는 시대가 열리고 있다.
 
 AI 예술 웹 서비스 Bletcher는 이미지 예술에 대한 색다른 참여 방식을 제안한다. 예술에 대한 재능과는 상관 없이 모두가 예술을 할 수 있고, 그를 공유할 수 있는 웹 서비스이다.
 
@@ -102,14 +102,14 @@ Go ▶️ [**[bletcher-ml]** repository](https://github.com/Bletcher-Project/ble
             <a href="https://github.com/hyokyeong-jung">
               <img src="https://github.com/hyokyeong-jung.png" width="100">
               <br />
-              <b>정효경(HYO KYEONG JUNG)</b>
+              <b>정효경 (HYO KYEONG JUNG)</b>
             </a>
         </td>
         <td style="min-width: 150px;">
             <a href="https://github.com/zzzzeuhi">
               <img src="https://github.com/zzzzeuhi.png" width="100">
               <br />
-              <b>황주희(zzzzeuhi)</b>
+              <b>황주희 (zzzzeuhi)</b>
             </a>
         </td>
     </tr>
