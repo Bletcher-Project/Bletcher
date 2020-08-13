@@ -75,7 +75,7 @@ Go ▶️ [**[bletcher-ml]** repository](https://github.com/Bletcher-Project/ble
             Web FE & BE
         </td>
         <td>
-            "안산이 개발의 성지" <br />
+            "나? 권혁진이야." <br />
             Web FE
         </td>
         <td>
