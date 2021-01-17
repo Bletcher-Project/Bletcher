@@ -32,7 +32,6 @@ Go ▶️ [**[bletcher-back]** repository](https://github.com/Bletcher-Project/b
 
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/Bletcher-Project/bletcher_mix)
 [![GitHub license](https://img.shields.io/github/license/Bletcher-Project/bletcher_mix)](https://github.com/Bletcher-Project/bletcher_mix/blob/master/LICENSE)  
-
 Go ▶️ [**[bletcher_mix]** repository](https://github.com/Bletcher-Project/bletcher_mix)
 
 ## Team
