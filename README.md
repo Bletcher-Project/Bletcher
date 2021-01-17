@@ -28,11 +28,12 @@ Go ▶️ [**[bletcher-front]** repository](https://github.com/Bletcher-Project/
 [![GitHub license](https://img.shields.io/github/license/Bletcher-Project/bletcher-front)](https://github.com/Bletcher-Project/bletcher-front/blob/master/LICENSE)  
 Go ▶️ [**[bletcher-back]** repository](https://github.com/Bletcher-Project/bletcher-back)
 
-### Machine Learning
+### Neural Style Transfer
 
-![GitHub top language](https://img.shields.io/github/languages/top/Bletcher-Project/bletcher-ml?color=orange&logo=jupyter)
-[![GitHub license](https://img.shields.io/github/license/Bletcher-Project/bletcher-front)](https://github.com/Bletcher-Project/bletcher-front/blob/master/LICENSE)  
-Go ▶️ [**[bletcher-ml]** repository](https://github.com/Bletcher-Project/bletcher-ml)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/Bletcher-Project/bletcher_mix)
+[![GitHub license](https://img.shields.io/github/license/Bletcher-Project/bletcher_mix)](https://github.com/Bletcher-Project/bletcher_mix/blob/master/LICENSE)  
+
+Go ▶️ [**[bletcher_mix]** repository](https://github.com/Bletcher-Project/bletcher_mix)
 
 ## Team
 
