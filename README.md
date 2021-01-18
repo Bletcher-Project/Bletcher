@@ -84,7 +84,7 @@ Go ▶️ [**[bletcher_mix]** repository](https://github.com/Bletcher-Project/bl
         </td>
         <td>
             🔨파이썬 뚝배기 담당🔨 <br />
-            Machine Learning
+            Django, Machine Learning
         </td>
     </tr>
 </table>
