@@ -83,7 +83,7 @@ Go ▶️ [**[bletcher_mix]** repository](https://github.com/Bletcher-Project/bl
             Web BE
         </td>
         <td>
-            파이썬 뚝배기 담당 <br />
+            파이썬 뚝배기 담당🔨 <br />
             Machine Learning
         </td>
     </tr>
