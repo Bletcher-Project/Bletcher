@@ -63,7 +63,7 @@ Go ▶️ [**[bletcher_mix]** repository](https://github.com/Bletcher-Project/bl
         </td>
         <td style="min-width: 150px;">
             <a href="https://github.com/yungoingFLY">
-              <img src="https://github.com/yungoingFLY.png" width="100">
+              <img src="https://github.com/yoongoing.png" width="100">
               <br />
               <b>윤가영 (yoongoing)</b>
             </a> 
